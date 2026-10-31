@@ -71,8 +71,7 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white" />
 </p>
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=jay-biswass&theme=aura_dark&hide_border=false)<br/>
+
 
 
 ---
