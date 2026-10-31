@@ -27,17 +27,14 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-<a href="https://leetcode.com/u/Jay_Biswas/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
+  <a href="https://linkedin.com/in/joy-biswas-344713261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://discord.gg/jay.biswas">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/jay.biswass">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/joy-biswas-344713261/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://pinterest.com/jaybiswas725">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
@@ -45,6 +42,9 @@
   <a href="https://x.com/jaybiswas725">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+<a href="https://leetcode.com/u/Jay_Biswas/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
   <a href="mailto:jaybiswas725@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -84,7 +84,7 @@
 
 ### 🎭 Design & Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,lightroom,figma,canva,blender" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender" />
 </p>
 
 ### 🧩 Other Technologies
@@ -105,9 +105,8 @@
 ## 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=jay-biswass&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=jay-biswass&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
-
 
 
 
