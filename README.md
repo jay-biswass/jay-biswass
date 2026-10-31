@@ -27,6 +27,9 @@
 ## 🌐 Let's Connect
 
 <p align="center">
+<a href="https://leetcode.com/u/Jay_Biswas/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
   <a href="https://discord.gg/jay.biswas">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
