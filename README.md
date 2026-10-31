@@ -1,4 +1,29 @@
-# 💫 Hi, I'm Jay Biswas 👋
+<h1 align="center">Hey there! I'm Jay Biswas 👋</h1>
+
+<h3 align="center">
+  Full Stack Developer | AI/ML Enthusiast | Engineering Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Exploring+Machine+Learning;Turning+Ideas+Into+Reality;Always+Learning+Something+New" />
+</p>
+
+
+
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE student specializing in AI & ML.
+- 💻 Passionate about Full Stack Development and Artificial Intelligence.
+- 🤖 Exploring Machine Learning, Deep Learning and AI-powered applications.
+- 🌱 Constantly learning, experimenting and building new things.
+- 🤝 Interested in Open Source and collaborative projects.
+- 🎯 Aspiring Software Engineer | AI Engineer.
+- ⚡ Fun fact: I enjoy photography, videography and playing guitar!
+
+
+
+
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -75,9 +100,20 @@
 
 
 ---
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🐍 Contribution Snake
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jay-biswass/jay-biswass/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jay-biswass/jay-biswass/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/jay-biswass/jay-biswass/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+
+
 
