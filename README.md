@@ -105,9 +105,12 @@
 ## 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=jay-biswass&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img
+    width="55%"
+    src="https://streak-stats.demolab.com?user=jay-biswass&theme=tokyonight&hide_border=true&border_radius=10&timezone=Asia%2FKolkata"
+    alt="GitHub Streak Stats"
+  />
 </p>
-
 
 
 
