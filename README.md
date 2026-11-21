@@ -107,7 +107,7 @@
 <p align="center">
   <img
     width="55%"
-    src="https://streak-stats.demolab.com?user=jay-biswass&theme=tokyonight&hide_border=true&border_radius=10&timezone=Asia%2FKolkata"
+    src="./profile/streak.svg"
     alt="GitHub Streak Stats"
   />
 </p>
